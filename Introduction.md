@@ -1,0 +1,50 @@
+Celltic
+
+Celltic is going to be a system to organize numbers, characters, strings and combinations of them into Cells.
+
+The Cell
+
+Each Cell has a Identity. An Identity is a number in Base 36. 
+
+Each Cell stores a number with a given base or a character or a string or a combination of them. This is called the Content of a Cell.
+
+The Cells are ordered in an infinite plane. Every Cell has eight neighbors.
+
+Each Cell can have up to four Configurations. A Configuration is an number manipulation function (aka algebraic function), a character or string manipulation function.
+
+The Definiton of a Cell is : (Identity, Content, (Configuration1, Configuration2, Configuration3, Configuration4))
+
+A Plane is a List of the Definitions of all its Cells. 
+
+
+Identities 
+
+Starting at Zero going to Infinity an Identity is just a number expressed in Base 36. Each digit goes from 0 to 9 and then from a to z (the English alphabet).
+Base 36 is chosen for a compact expression of "Names" to each Cell.
+
+Contents
+
+Numbers
+
+A Cell can store a number. Each number can be expressed in the Bases from 2 to 36.
+The numbers are of arbitrary precision. 
+
+Configurations
+
+A Configuration is a function which manipulates the Content of its Cell and generates all neighboring Cells of its direction. 
+The first Configuration generates all Cells left of its Cell.
+The second Configuration generates all Cells above its Cell.
+The third Configuration generates all Cells right of its Cell.
+The fourth Configuration generates all Cells under its Cell.
+
+Neighboring Cells must not have Configurations which have opposite direction.
+
+  
+Number Manipulation Functions
+
+These Configurations are operations like +1, *2, ^3, *5% or other algebraic functions. The operations must repeatedly executed on every Cell of its direction.
+
+   
+ 
+
+
