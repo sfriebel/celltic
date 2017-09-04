@@ -1,0 +1,9 @@
+= Rules of Contributing to Celltic =
+
+In this document the rules for the contribution to Celltic will be specified
+and explained.
+
+1. Use the structure specified in usage.adoc 
+2. Make a very easy usable file. For example a JSON or a XML file. 
+3. Before committing be sure that your entries are correct.
+4. Put your contribution under the MIT license or a compatible license. 
