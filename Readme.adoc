@@ -1,7 +1,20 @@
-== We need to structure ==
+== We need to structure
 
-== We need to categorize ==
+The world around us gives us information. From chaotic informations we gather data. Data will be put in a list or on a stack or on a table. And we link various pieces of data together. With such a structure we transform data into knowledge. 
 
-== We need to sort ==
+Then
+ 
+== We need to categorize
 
-== We need to combine ==
+Knowledge needs to be put into appropriate abstract categories. Categories tell us the where, what, when, how and how much and other abstract groups linked with the knowledge data.
+  
+== We need to sort
+
+To find some data we need also order. We order for numbers and alphabets and we order for space and time. We know political and geographical order. 
+
+== We need to combine
+
+At last we need to work with the knowledge. So we can experiment with it. Or get new data from the old data.
+
+
+Celltic is going to be a platform independent, freely distributable and easily search, sort and browsable data structure to gather the data about our world.
